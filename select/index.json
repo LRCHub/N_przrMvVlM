@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "Tamed-Dashed",
+  "base_artist": "ENHYPEN",
+  "createdAt": "2026-03-10T11:30:07.451325Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Tamed-Dashed",
+      "artist": "ENHYPEN",
+      "has_synced": true,
+      "path": "select/01_Tamed-Dashed_ENHYPEN.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Tamed-Dashed - Japanese Ver.",
+      "artist": "ENHYPEN",
+      "has_synced": true,
+      "path": "select/02_Tamed-Dashed_-_Japanese_Ver._ENHYPEN.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Tamed-Dashed (Japanese Ver.)",
+      "artist": "ENHYPEN",
+      "has_synced": true,
+      "path": "select/03_Tamed-Dashed_(Japanese_Ver.)_ENHYPEN.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Tamed-Dashed (Japanese Version)",
+      "artist": "ENHYPEN",
+      "has_synced": true,
+      "path": "select/04_Tamed-Dashed_(Japanese_Version)_ENHYPEN.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Tamed-Dashed - Japanese Ver.",
+      "artist": "ENHYPEN",
+      "has_synced": true,
+      "path": "select/05_Tamed-Dashed_-_Japanese_Ver._ENHYPEN.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Tamed‐Dashed (Japanese ver.)",
+      "artist": "ENHYPEN",
+      "has_synced": true,
+      "path": "select/06_Tamed‐Dashed_(Japanese_ver.)_ENHYPEN.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Tamed-Dashed (Japanese Ver.)",
+      "artist": "ENHYPEN",
+      "has_synced": true,
+      "path": "select/07_Tamed-Dashed_(Japanese_Ver.)_ENHYPEN.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Tamed‐Dashed",
+      "artist": "ENHYPEN",
+      "has_synced": true,
+      "path": "select/08_Tamed‐Dashed_ENHYPEN.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Tamed-Dashed",
+      "artist": "ENHYPEN",
+      "has_synced": true,
+      "path": "select/09_Tamed-Dashed_ENHYPEN.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Tamed-Dashed [Japanese Ver.]",
+      "artist": "ENHYPEN",
+      "has_synced": true,
+      "path": "select/10_Tamed-Dashed_[Japanese_Ver.]_ENHYPEN.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Tamed‐Dashed",
+      "artist": "ENHYPEN",
+      "has_synced": false,
+      "path": "select/11_Tamed‐Dashed_ENHYPEN.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Tamed-Dashed (Paused)",
+      "artist": "ENHYPEN",
+      "has_synced": true,
+      "path": "select/12_Tamed-Dashed_(Paused)_ENHYPEN.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Tamed-Dashed",
+      "artist": "ENHYPEN",
+      "has_synced": false,
+      "path": "select/pl_01_Tamed-Dashed_ENHYPEN.txt"
+    }
+  ]
+}
